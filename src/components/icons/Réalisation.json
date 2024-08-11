@@ -1,0 +1,46 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "tag": ["HTML","CSS"],
+            "name": "CV - Thibaud Liagre",
+            "createDate": "19/06/2024",
+            "description": "Création d'un CV en HTML/CSS.",
+            "image": [
+                {
+                    "src":"src/assets/images/cv.thib.pdf",
+                    "alt":"CV - Thibaud"
+                }
+            ],
+            "link": "https://github.com/thibromzo/cvthib.git"
+        },
+        {
+            "id": 2,
+            "tag": ["HTML","JavaScript"],
+            "name": "Espace Commentaires",
+            "createDate": "11/07/2024",
+            "description": "Dynamiser un espace commentaire.",
+            "image": [
+                {
+                "src":"src/assets/images/devoir.com.pdf",
+                "alt":"Espace Commentaires"
+                }
+            ],
+            "link": "https://github.com/thibromzo/devoir-commentaire.git"
+        },
+        {
+            "id": 3,
+            "tag": ["Open Office","PDF"],
+            "name": "Cahier des charges 'La Socketterie'",
+            "createDate": "25/06/2024",
+            "description": "Rédaction d'un cahier des charges dans le cadre de la création d'un site web de vente en ligne pour : 'La Socketterie'.",
+            "image": [
+                {
+                    "src":"src/assets/images/'cahier ecommerce.pdf",
+                    "alt":"Cahier des Charges"
+                }
+            ]
+        
+        }
+    ]
+}
