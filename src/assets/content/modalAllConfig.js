@@ -8,7 +8,7 @@ export default {
             creationDate: "19/06/2024",
             creationLink: {
                 isLink: true,
-                link: "/cv-mpo/index.html"
+                link: "/cv-thib/index.html"
             },
             gitLink: {
                 isLink: true,

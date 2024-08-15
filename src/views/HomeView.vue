@@ -2,8 +2,7 @@
     import { ref, computed } from 'vue';
     import creationModal from '../components/creationModal.vue';
     import CreationArticle from '../components/CreationArticle.vue';
-    
-    //Load content data could comming from a DB 
+     
     import modalAllConfig from '../assets/content/modalAllConfig'
     import creationArticleContent from '../assets/content/creationArticleContent';
 
@@ -18,7 +17,6 @@
             gitLink: ""}
     });
 
-    //Object used to bind form contact content
     const messageContent = ref({
         firsname:"",
         lastname:"",
@@ -62,7 +60,7 @@
         <figure class="photo-profile">
         <a href="/#main">
             <img class="photo-profile__img"
-                src="/pictures/photo_profile_mpo.jpg"
+                src="/pictures/photo_profile_thib.jpg"
                 title="Photo profile Thibaud Liagre"
                 alt="La photo de Thibaud Liagre">
         </a>
