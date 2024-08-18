@@ -1,4 +1,4 @@
-//Data could comming from a DB (ie: mongo)
+
 export default [
     {
         name: 'cv',
